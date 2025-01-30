@@ -6,7 +6,7 @@ import "swiper/css/pagination";
 
 const slides = [
   {
-    image: "/image/project1.png", // Ensure the path is correct
+    image: "/image/project1.png", // Ensure the path is corret.
     description: "Project 1 : A simple login page using React.",
   },
   {
